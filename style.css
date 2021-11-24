@@ -40,7 +40,7 @@
        rgba(255, 255, 255, 0.2),
        rgba(255, 255, 255, 0.3)
      ),
-     url(images/background\ 4.jpg) center no-repeat;
+     url(images/background5.2.jpg) center no-repeat;
    background-size: cover;
    flex-direction: column;
  }
@@ -155,7 +155,7 @@
        rgba(255, 255, 255, 0.2),
        rgba(255, 255, 255, 0.3)
      ),
-     url(images/backround2.jpg) center no-repeat;
+     url(images/background3.jpg) center no-repeat;
    background-size: cover;
    display: flex;
    flex-direction: column;
